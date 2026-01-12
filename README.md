@@ -25,5 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Дополнения
 - Внесены изменения позволяющие пользователю вводить собственное имя файла при переименовании
-- Backend часть приложения
+- [Backend](https://github.com/Banan4ique/CloudStorageBackend) часть приложения
 
